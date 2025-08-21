@@ -4,8 +4,8 @@ A comprehensive prompt engineering guide for Claude 4 series models, specificall
 
 ## Contents
 
-- **[Claude Opus 4.1 Prompt Guide (Japanese)](Claude/Prompt_Guide_for_Opus_4_1.md)** - Original Japanese guide
-- **[Claude Opus 4.1 Prompt Guide (English)](Claude/Prompt_Guide_for_Opus_4_1_EN.md)** - English translation
+- **[Claude Opus 4.1 Prompt Guide (English)](Claude/Prompt_Guide_for_Opus_4_1_EN.md)** - English guide
+- **[Claude Opus 4.1 Prompt Guide (Japanese)](Claude/Prompt_Guide_for_Opus_4_1_JA.md)** - Japanese guide
 
 ## Overview
 
