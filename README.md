@@ -16,6 +16,10 @@ A comprehensive collection of prompt engineering guides optimized for advanced A
 - **[Comparative Examples: Deep Think vs GPT-5 Pro (English)](reasoning-model-guides/Prompt_Examples_Deep_Think_GPT-5_Pro_EN.md)**
 - **[Comparative Examples: Deep Think vs GPT-5 Pro (Japanese)](reasoning-model-guides/Prompt_Examples_Deep_Think_GPT-5_Pro_JA.md)**
 
+### Coding-Specific Prompts
+- **[Python TDD (Test-Driven Development) Prompt (English)](prompts-for-coding/Python_TDD_Prompt_EN.md)**
+- **[Python TDD (Test-Driven Development) Prompt (Japanese)](prompts-for-coding/Python_TDD_Prompt_JA.md)**
+
 ## 🎯 Overview
 
 This repository provides model-specific prompt engineering techniques optimized for different advanced AI systems:
@@ -42,6 +46,12 @@ Focused on production-ready outputs:
 - Executable code with tests and metrics
 - Decision-ready analysis briefs
 - Schema-compliant outputs with minimal verbosity
+
+### Coding-Specific Prompts
+Specialized prompts for software development:
+- **Python TDD** - Enforces strict Test-Driven Development workflow with Red-Green-Refactor cycles
+- Comprehensive testing strategies including property-based testing and concurrency
+- AI collaboration guidelines with quality gates
 
 ## 🚀 Quick Start
 
@@ -81,6 +91,13 @@ Each guide includes:
 2. Select templates matching your use case (strategy, coding, analysis, etc.)
 3. Replace placeholder variables `{...}` with your specific requirements
 4. Adjust output formats and constraints as needed
+
+### For Coding Projects
+When using coding-specific prompts (e.g., Python TDD):
+1. Copy the entire prompt to establish strict development guidelines
+2. The AI will enforce TDD practices automatically
+3. Violations trigger immediate correction workflows
+4. All code must pass quality gates before acceptance
 
 ## 🌐 Language Support
 
