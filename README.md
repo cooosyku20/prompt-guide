@@ -99,6 +99,13 @@ When using coding-specific prompts (e.g., Python TDD):
 3. Violations trigger immediate correction workflows
 4. All code must pass quality gates before acceptance
 
+#### Using with Claude Code or Cursor
+For Claude Code or Cursor users, execute the following prompt:
+
+```
+Follow @Python_TDD_Prompt.md to perform test-driven development. Always execute Red-Green-Refactor cycles on a per-task basis.
+```
+
 ## 🌐 Language Support
 
 All guides are available in both English and Japanese, with natural technical terminology appropriate for each language's developer community.
